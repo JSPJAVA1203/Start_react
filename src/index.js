@@ -19,7 +19,7 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
-// 최초 진입 시 불려지는 파일이다.
+// 최초 진입 시 불려지는 파일이다
 
 // 5~10 line: ReactDOM.render(컴포넌트, 위치)
 // 첫 번째 인자에는 일반적인 HTML의 태그처럼 생긴 Component들을 'root'라는 id를 갖고 있는 element에 띄워 달라는 의미이다.
