@@ -25,6 +25,7 @@ import { Component } from "react";
 //     );
 //   }
 // }
+// 커밋 되냐
 
 class Content extends Component {
   constructor(props){
